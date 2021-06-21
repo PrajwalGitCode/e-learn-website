@@ -82,6 +82,7 @@ html,body
   .card{
     margin-top:50px;
   }
+}
   @media (min-width: 1024px) and (max-width: 1439px){
     .card{
       width:30rem !important;
